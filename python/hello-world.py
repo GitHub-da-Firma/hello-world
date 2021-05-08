@@ -1,1 +1,1 @@
-print("opa iae blz")
+print("Hello World!")

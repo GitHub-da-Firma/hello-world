@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-	cout << "opa iae blz";
-	
+	cout << "Hello World!";	
 	return 0;
 }
